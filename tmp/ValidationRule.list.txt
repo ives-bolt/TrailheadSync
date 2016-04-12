@@ -1,0 +1,8 @@
+************************************************************
+FileName: objects/Contact.object
+FullName/Id: Contact.Contact_must_be_in_Account_ZIP_Code/03d360000004k1eAAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created Date: 2016-01-30T12:44:00-0500
+Last Modified Date: 2016-02-12T14:29:08-0500
+************************************************************
