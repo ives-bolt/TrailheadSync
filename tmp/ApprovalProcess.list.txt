@@ -1,16 +1,16 @@
 ************************************************************
-FileName: approvalProcesses/Opportunity.Approve_Opportunity_Discount.approvalProcess
-FullName/Id: Opportunity.Approve_Opportunity_Discount/04a360000008TFUAA2
-Manageable State: null
-Namespace Prefix: null
-Created Date: 2016-02-14T17:36:34-0500
-Last Modified Date: 2016-02-14T17:38:50-0500
-************************************************************
-************************************************************
 FileName: approvalProcesses/Account.Approve_New_Account.approvalProcess
 FullName/Id: Account.Approve_New_Account/04a360000008TFZAA2
 Manageable State: null
 Namespace Prefix: null
 Created Date: 2016-02-14T17:47:53-0500
 Last Modified Date: 2016-02-14T18:02:36-0500
+************************************************************
+************************************************************
+FileName: approvalProcesses/Opportunity.Approve_Opportunity_Discount.approvalProcess
+FullName/Id: Opportunity.Approve_Opportunity_Discount/04a360000008TFUAA2
+Manageable State: null
+Namespace Prefix: null
+Created Date: 2016-02-14T17:36:34-0500
+Last Modified Date: 2016-02-14T17:38:50-0500
 ************************************************************
