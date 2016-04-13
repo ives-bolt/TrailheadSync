@@ -1,4 +1,20 @@
 ************************************************************
+FileName: triggers/ExampleTrigger.trigger
+FullName/Id: ExampleTrigger/01q360000005WKrAAM
+Manageable State: unmanaged
+Namespace Prefix: null
+Created Date: 2016-02-03T21:31:19-0500
+Last Modified Date: 2016-02-03T21:32:36-0500
+************************************************************
+************************************************************
+FileName: triggers/AccountAddressTrigger.trigger
+FullName/Id: AccountAddressTrigger/01q360000005WP9AAM
+Manageable State: unmanaged
+Namespace Prefix: null
+Created Date: 2016-02-03T21:47:13-0500
+Last Modified Date: 2016-02-03T22:11:24-0500
+************************************************************
+************************************************************
 FileName: triggers/ClosedOpportunityTrigger.trigger
 FullName/Id: ClosedOpportunityTrigger/01q360000005YvPAAU
 Manageable State: unmanaged
@@ -13,14 +29,6 @@ Manageable State: unmanaged
 Namespace Prefix: null
 Created Date: 2016-02-01T20:59:32-0500
 Last Modified Date: 2016-03-30T17:59:25-0400
-************************************************************
-************************************************************
-FileName: triggers/AccountAddressTrigger.trigger
-FullName/Id: AccountAddressTrigger/01q360000005WP9AAM
-Manageable State: unmanaged
-Namespace Prefix: null
-Created Date: 2016-02-03T21:47:13-0500
-Last Modified Date: 2016-02-03T22:11:24-0500
 ************************************************************
 ************************************************************
 FileName: triggers/AddRelatedRecord.trigger
@@ -45,12 +53,4 @@ Manageable State: unmanaged
 Namespace Prefix: null
 Created Date: 2016-02-04T22:57:36-0500
 Last Modified Date: 2016-02-04T22:57:51-0500
-************************************************************
-************************************************************
-FileName: triggers/ExampleTrigger.trigger
-FullName/Id: ExampleTrigger/01q360000005WKrAAM
-Manageable State: unmanaged
-Namespace Prefix: null
-Created Date: 2016-02-03T21:31:19-0500
-Last Modified Date: 2016-02-03T21:32:36-0500
 ************************************************************
