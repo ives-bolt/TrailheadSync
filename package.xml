@@ -44,6 +44,7 @@
         <members>TestAccountDeletion</members>
         <members>TestBatchClass</members>
         <members>TestClass</members>
+        <members>TestClass2</members>
         <members>TestDataFactory</members>
         <members>TestRestrictContactByName</members>
         <members>TestVerifyDate</members>
