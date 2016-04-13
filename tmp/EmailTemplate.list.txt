@@ -1,6 +1,22 @@
 ************************************************************
-FileName: email/unfiled$public/SupportEscalatedCaseReassignment.email
-FullName/Id: unfiled$public/SupportEscalatedCaseReassignment/00X36000000YAI7EAO
+FileName: email/unfiled$public/SupportSelfServiceResetPassword.email
+FullName/Id: unfiled$public/SupportSelfServiceResetPassword/00X36000000YAI2EAO
+Manageable State: unmanaged
+Namespace Prefix: null
+Created Date: 2016-01-20T21:40:09-0500
+Last Modified Date: 2016-01-20T21:40:09-0500
+************************************************************
+************************************************************
+FileName: email/unfiled$public/SupportEscalatedCaseNotification.email
+FullName/Id: unfiled$public/SupportEscalatedCaseNotification/00X36000000YAI8EAO
+Manageable State: unmanaged
+Namespace Prefix: null
+Created Date: 2016-01-20T21:40:09-0500
+Last Modified Date: 2016-01-20T21:40:09-0500
+************************************************************
+************************************************************
+FileName: email/unfiled$public/SupportCaseAssignmentNotification.email
+FullName/Id: unfiled$public/SupportCaseAssignmentNotification/00X36000000YAI4EAO
 Manageable State: unmanaged
 Namespace Prefix: null
 Created Date: 2016-01-20T21:40:09-0500
@@ -15,24 +31,16 @@ Created Date: 2016-01-20T21:40:09-0500
 Last Modified Date: 2016-01-20T21:40:09-0500
 ************************************************************
 ************************************************************
-FileName: email/unfiled$public/SUPPORTSelfServiceResetPasswordSAMPLE.email
-FullName/Id: unfiled$public/SUPPORTSelfServiceResetPasswordSAMPLE/00X36000000YAIDEA4
-Manageable State: unmanaged
-Namespace Prefix: null
-Created Date: 2016-01-20T21:40:09-0500
-Last Modified Date: 2016-01-20T21:40:09-0500
-************************************************************
-************************************************************
-FileName: email/unfiled$public/SupportCaseCreatedPhoneInquiries.email
-FullName/Id: unfiled$public/SupportCaseCreatedPhoneInquiries/00X36000000YAI5EAO
-Manageable State: unmanaged
-Namespace Prefix: null
-Created Date: 2016-01-20T21:40:09-0500
-Last Modified Date: 2016-01-20T21:40:09-0500
-************************************************************
-************************************************************
 FileName: email/unfiled$public/MarketingProductInquiryResponse.email
 FullName/Id: unfiled$public/MarketingProductInquiryResponse/00X36000000YAI9EAO
+Manageable State: unmanaged
+Namespace Prefix: null
+Created Date: 2016-01-20T21:40:09-0500
+Last Modified Date: 2016-01-20T21:40:09-0500
+************************************************************
+************************************************************
+FileName: email/unfiled$public/SUPPORTSelfServiceResetPasswordSAMPLE.email
+FullName/Id: unfiled$public/SUPPORTSelfServiceResetPasswordSAMPLE/00X36000000YAIDEA4
 Manageable State: unmanaged
 Namespace Prefix: null
 Created Date: 2016-01-20T21:40:09-0500
@@ -55,8 +63,16 @@ Created Date: 2016-01-20T21:40:09-0500
 Last Modified Date: 2016-01-20T21:40:09-0500
 ************************************************************
 ************************************************************
-FileName: email/unfiled$public/SupportEscalatedCaseNotification.email
-FullName/Id: unfiled$public/SupportEscalatedCaseNotification/00X36000000YAI8EAO
+FileName: email/unfiled$public/Approve_Opportunity_Discount.email
+FullName/Id: unfiled$public/Approve_Opportunity_Discount/00X36000000QY7EEAW
+Manageable State: unmanaged
+Namespace Prefix: null
+Created Date: 2016-02-14T17:27:50-0500
+Last Modified Date: 2016-02-14T17:35:16-0500
+************************************************************
+************************************************************
+FileName: email/unfiled$public/SupportEscalatedCaseReassignment.email
+FullName/Id: unfiled$public/SupportEscalatedCaseReassignment/00X36000000YAI7EAO
 Manageable State: unmanaged
 Namespace Prefix: null
 Created Date: 2016-01-20T21:40:09-0500
@@ -71,28 +87,12 @@ Created Date: 2016-01-20T21:40:09-0500
 Last Modified Date: 2016-01-20T21:40:09-0500
 ************************************************************
 ************************************************************
-FileName: email/unfiled$public/SupportSelfServiceNewLoginandPassword.email
-FullName/Id: unfiled$public/SupportSelfServiceNewLoginandPassword/00X36000000YAI3EAO
+FileName: email/unfiled$public/SupportCaseCreatedPhoneInquiries.email
+FullName/Id: unfiled$public/SupportCaseCreatedPhoneInquiries/00X36000000YAI5EAO
 Manageable State: unmanaged
 Namespace Prefix: null
 Created Date: 2016-01-20T21:40:09-0500
 Last Modified Date: 2016-01-20T21:40:09-0500
-************************************************************
-************************************************************
-FileName: email/unfiled$public/SupportSelfServiceResetPassword.email
-FullName/Id: unfiled$public/SupportSelfServiceResetPassword/00X36000000YAI2EAO
-Manageable State: unmanaged
-Namespace Prefix: null
-Created Date: 2016-01-20T21:40:09-0500
-Last Modified Date: 2016-01-20T21:40:09-0500
-************************************************************
-************************************************************
-FileName: email/unfiled$public/Approve_Opportunity_Discount.email
-FullName/Id: unfiled$public/Approve_Opportunity_Discount/00X36000000QY7EEAW
-Manageable State: unmanaged
-Namespace Prefix: null
-Created Date: 2016-02-14T17:27:50-0500
-Last Modified Date: 2016-02-14T17:35:16-0500
 ************************************************************
 ************************************************************
 FileName: email/unfiled$public/SupportCaseCreatedWebInquiries.email
@@ -103,8 +103,8 @@ Created Date: 2016-01-20T21:40:09-0500
 Last Modified Date: 2016-01-20T21:40:09-0500
 ************************************************************
 ************************************************************
-FileName: email/unfiled$public/SupportCaseAssignmentNotification.email
-FullName/Id: unfiled$public/SupportCaseAssignmentNotification/00X36000000YAI4EAO
+FileName: email/unfiled$public/SupportSelfServiceNewLoginandPassword.email
+FullName/Id: unfiled$public/SupportSelfServiceNewLoginandPassword/00X36000000YAI3EAO
 Manageable State: unmanaged
 Namespace Prefix: null
 Created Date: 2016-01-20T21:40:09-0500

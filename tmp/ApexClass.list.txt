@@ -1,10 +1,186 @@
 ************************************************************
+FileName: classes/TestRestrictContactByName.cls
+FullName/Id: TestRestrictContactByName/01p36000002DTlUAAW
+Manageable State: unmanaged
+Namespace Prefix: null
+Created Date: 2016-02-04T23:00:31-0500
+Last Modified Date: 2016-02-04T23:33:33-0500
+************************************************************
+************************************************************
+FileName: classes/EmailManager.cls
+FullName/Id: EmailManager/01p36000002AHATAA4
+Manageable State: unmanaged
+Namespace Prefix: null
+Created Date: 2016-01-30T16:46:22-0500
+Last Modified Date: 2016-01-30T17:03:55-0500
+************************************************************
+************************************************************
+FileName: classes/HttpGetSample.cls
+FullName/Id: HttpGetSample/01p36000003PPo8AAG
+Manageable State: unmanaged
+Namespace Prefix: null
+Created Date: 2016-02-16T21:12:16-0500
+Last Modified Date: 2016-02-16T21:13:00-0500
+************************************************************
+************************************************************
+FileName: classes/AnimalsHttpCalloutMock.cls
+FullName/Id: AnimalsHttpCalloutMock/01p36000003PRJTAA4
+Manageable State: unmanaged
+Namespace Prefix: null
+Created Date: 2016-02-16T21:21:29-0500
+Last Modified Date: 2016-02-16T21:21:35-0500
+************************************************************
+************************************************************
+FileName: classes/NewCaseListController.cls
+FullName/Id: NewCaseListController/01p36000003O0n3AAC
+Manageable State: unmanaged
+Namespace Prefix: null
+Created Date: 2016-02-14T21:24:50-0500
+Last Modified Date: 2016-02-14T21:59:11-0500
+************************************************************
+************************************************************
+FileName: classes/ParkLocatorTest.cls
+FullName/Id: ParkLocatorTest/01p36000005pD6eAAE
+Manageable State: unmanaged
+Namespace Prefix: null
+Created Date: 2016-03-16T12:04:10-0400
+Last Modified Date: 2016-03-16T14:51:18-0400
+************************************************************
+************************************************************
+FileName: classes/CaseManagerTest.cls
+FullName/Id: CaseManagerTest/01p36000005pJy1AAE
+Manageable State: unmanaged
+Namespace Prefix: null
+Created Date: 2016-03-16T16:03:17-0400
+Last Modified Date: 2016-03-16T19:50:29-0400
+************************************************************
+************************************************************
+FileName: classes/AccountProcessor.cls
+FullName/Id: AccountProcessor/01p360000072Sw3AAE
+Manageable State: unmanaged
+Namespace Prefix: null
+Created Date: 2016-03-31T10:29:43-0400
+Last Modified Date: 2016-03-31T14:06:39-0400
+************************************************************
+************************************************************
+FileName: classes/ContactSearch.cls
+FullName/Id: ContactSearch/01p36000002AUnqAAG
+Manageable State: unmanaged
+Namespace Prefix: null
+Created Date: 2016-01-31T16:12:40-0500
+Last Modified Date: 2016-01-31T16:29:01-0500
+************************************************************
+************************************************************
+FileName: classes/RandomContactFactory.cls
+FullName/Id: RandomContactFactory/01p36000002Dm6AAAS
+Manageable State: unmanaged
+Namespace Prefix: null
+Created Date: 2016-02-05T15:24:46-0500
+Last Modified Date: 2016-02-05T15:42:27-0500
+************************************************************
+************************************************************
+FileName: classes/UpsertContactSample.cls
+FullName/Id: UpsertContactSample/01p36000002AT49AAG
+Manageable State: unmanaged
+Namespace Prefix: null
+Created Date: 2016-01-31T14:02:30-0500
+Last Modified Date: 2016-01-31T14:03:37-0500
+************************************************************
+************************************************************
 FileName: classes/AnimalLocator.cls
 FullName/Id: AnimalLocator/01p36000003PRRYAA4
 Manageable State: unmanaged
 Namespace Prefix: null
 Created Date: 2016-02-16T21:23:53-0500
 Last Modified Date: 2016-02-16T21:54:31-0500
+************************************************************
+************************************************************
+FileName: classes/InsertWithPartialSuccessSample.cls
+FullName/Id: InsertWithPartialSuccessSample/01p36000002AT4EAAW
+Manageable State: unmanaged
+Namespace Prefix: null
+Created Date: 2016-01-31T14:21:45-0500
+Last Modified Date: 2016-01-31T14:22:20-0500
+************************************************************
+************************************************************
+FileName: classes/CaseManager.cls
+FullName/Id: CaseManager/01p36000005pJ8PAAU
+Manageable State: unmanaged
+Namespace Prefix: null
+Created Date: 2016-03-16T15:22:28-0400
+Last Modified Date: 2016-03-16T15:22:38-0400
+************************************************************
+************************************************************
+FileName: classes/TestBatchClass.cls
+FullName/Id: TestBatchClass/01p36000007cYYfAAM
+Manageable State: unmanaged
+Namespace Prefix: null
+Created Date: 2016-04-07T16:08:24-0400
+Last Modified Date: 2016-04-07T16:10:05-0400
+************************************************************
+************************************************************
+FileName: classes/HttpPostSample.cls
+FullName/Id: HttpPostSample/01p36000003PQBvAAO
+Manageable State: unmanaged
+Namespace Prefix: null
+Created Date: 2016-02-16T21:14:28-0500
+Last Modified Date: 2016-02-16T21:14:47-0500
+************************************************************
+************************************************************
+FileName: classes/AddAccountSample.cls
+FullName/Id: AddAccountSample/01p36000002ASzrAAG
+Manageable State: unmanaged
+Namespace Prefix: null
+Created Date: 2016-01-31T13:36:17-0500
+Last Modified Date: 2016-01-31T13:44:16-0500
+************************************************************
+************************************************************
+FileName: classes/AsyncParkService.cls
+FullName/Id: AsyncParkService/01p36000005pBx7AAE
+Manageable State: unmanaged
+Namespace Prefix: null
+Created Date: 2016-03-16T11:35:49-0400
+Last Modified Date: 2016-03-16T11:35:49-0400
+************************************************************
+************************************************************
+FileName: classes/AnimalLocatorTest.cls
+FullName/Id: AnimalLocatorTest/01p36000003PSEUAA4
+Manageable State: unmanaged
+Namespace Prefix: null
+Created Date: 2016-02-16T21:34:37-0500
+Last Modified Date: 2016-02-16T21:59:16-0500
+************************************************************
+************************************************************
+FileName: classes/SubstringBetweenTest.cls
+FullName/Id: SubstringBetweenTest/01p36000005pNmeAAE
+Manageable State: unmanaged
+Namespace Prefix: null
+Created Date: 2016-03-16T17:55:36-0400
+Last Modified Date: 2016-03-16T17:59:21-0400
+************************************************************
+************************************************************
+FileName: classes/ParkService.cls
+FullName/Id: ParkService/01p36000005pBx6AAE
+Manageable State: unmanaged
+Namespace Prefix: null
+Created Date: 2016-03-16T11:35:49-0400
+Last Modified Date: 2016-03-16T11:35:49-0400
+************************************************************
+************************************************************
+FileName: classes/ContactsListController.cls
+FullName/Id: ContactsListController/01p36000003O0iqAAC
+Manageable State: unmanaged
+Namespace Prefix: null
+Created Date: 2016-02-14T21:18:11-0500
+Last Modified Date: 2016-02-14T21:21:22-0500
+************************************************************
+************************************************************
+FileName: classes/AnimalsCallouts.cls
+FullName/Id: AnimalsCallouts/01p36000003PR2GAAW
+Manageable State: unmanaged
+Namespace Prefix: null
+Created Date: 2016-02-16T21:16:12-0500
+Last Modified Date: 2016-02-16T21:16:20-0500
 ************************************************************
 ************************************************************
 FileName: classes/TestDataFactory.cls
@@ -23,206 +199,6 @@ Created Date: 2016-03-16T11:36:19-0400
 Last Modified Date: 2016-03-22T13:54:00-0400
 ************************************************************
 ************************************************************
-FileName: classes/CaseManager.cls
-FullName/Id: CaseManager/01p36000005pJ8PAAU
-Manageable State: unmanaged
-Namespace Prefix: null
-Created Date: 2016-03-16T15:22:28-0400
-Last Modified Date: 2016-03-16T15:22:38-0400
-************************************************************
-************************************************************
-FileName: classes/EmailManager.cls
-FullName/Id: EmailManager/01p36000002AHATAA4
-Manageable State: unmanaged
-Namespace Prefix: null
-Created Date: 2016-01-30T16:46:22-0500
-Last Modified Date: 2016-01-30T17:03:55-0500
-************************************************************
-************************************************************
-FileName: classes/AnimalsCallouts.cls
-FullName/Id: AnimalsCallouts/01p36000003PR2GAAW
-Manageable State: unmanaged
-Namespace Prefix: null
-Created Date: 2016-02-16T21:16:12-0500
-Last Modified Date: 2016-02-16T21:16:20-0500
-************************************************************
-************************************************************
-FileName: classes/AwesomeCalculatorTest.cls
-FullName/Id: AwesomeCalculatorTest/01p36000005pBO4AAM
-Manageable State: unmanaged
-Namespace Prefix: null
-Created Date: 2016-03-16T11:28:26-0400
-Last Modified Date: 2016-03-16T14:49:09-0400
-************************************************************
-************************************************************
-FileName: classes/TestBatchClass.cls
-FullName/Id: TestBatchClass/01p36000007cYYfAAM
-Manageable State: unmanaged
-Namespace Prefix: null
-Created Date: 2016-04-07T16:08:24-0400
-Last Modified Date: 2016-04-07T16:10:05-0400
-************************************************************
-************************************************************
-FileName: classes/AccountManagerTest.cls
-FullName/Id: AccountManagerTest/01p36000005pKNEAA2
-Manageable State: unmanaged
-Namespace Prefix: null
-Created Date: 2016-03-16T16:22:32-0400
-Last Modified Date: 2016-03-16T20:27:05-0400
-************************************************************
-************************************************************
-FileName: classes/CalculatorCalloutMock.cls
-FullName/Id: CalculatorCalloutMock/01p36000005pBNfAAM
-Manageable State: unmanaged
-Namespace Prefix: null
-Created Date: 2016-03-16T11:26:03-0400
-Last Modified Date: 2016-03-16T11:26:23-0400
-************************************************************
-************************************************************
-FileName: classes/ContactSearch.cls
-FullName/Id: ContactSearch/01p36000002AUnqAAG
-Manageable State: unmanaged
-Namespace Prefix: null
-Created Date: 2016-01-31T16:12:40-0500
-Last Modified Date: 2016-01-31T16:29:01-0500
-************************************************************
-************************************************************
-FileName: classes/TestClass.cls
-FullName/Id: TestClass/01p36000002DK5BAAW
-Manageable State: unmanaged
-Namespace Prefix: null
-Created Date: 2016-02-04T18:34:16-0500
-Last Modified Date: 2016-04-05T11:50:24-0400
-************************************************************
-************************************************************
-FileName: classes/AnimalsCalloutsTest.cls
-FullName/Id: AnimalsCalloutsTest/01p36000003PRHrAAO
-Manageable State: unmanaged
-Namespace Prefix: null
-Created Date: 2016-02-16T21:18:09-0500
-Last Modified Date: 2016-02-16T21:22:29-0500
-************************************************************
-************************************************************
-FileName: classes/ParkService.cls
-FullName/Id: ParkService/01p36000005pBx6AAE
-Manageable State: unmanaged
-Namespace Prefix: null
-Created Date: 2016-03-16T11:35:49-0400
-Last Modified Date: 2016-03-16T11:35:49-0400
-************************************************************
-************************************************************
-FileName: classes/ContactAndLeadSearch.cls
-FullName/Id: ContactAndLeadSearch/01p36000002AUsSAAW
-Manageable State: unmanaged
-Namespace Prefix: null
-Created Date: 2016-01-31T16:55:54-0500
-Last Modified Date: 2016-01-31T17:03:40-0500
-************************************************************
-************************************************************
-FileName: classes/HttpGetSample.cls
-FullName/Id: HttpGetSample/01p36000003PPo8AAG
-Manageable State: unmanaged
-Namespace Prefix: null
-Created Date: 2016-02-16T21:12:16-0500
-Last Modified Date: 2016-02-16T21:13:00-0500
-************************************************************
-************************************************************
-FileName: classes/TestRestrictContactByName.cls
-FullName/Id: TestRestrictContactByName/01p36000002DTlUAAW
-Manageable State: unmanaged
-Namespace Prefix: null
-Created Date: 2016-02-04T23:00:31-0500
-Last Modified Date: 2016-02-04T23:33:33-0500
-************************************************************
-************************************************************
-FileName: classes/AccountProcessor.cls
-FullName/Id: AccountProcessor/01p360000072Sw3AAE
-Manageable State: unmanaged
-Namespace Prefix: null
-Created Date: 2016-03-31T10:29:43-0400
-Last Modified Date: 2016-03-31T14:06:39-0400
-************************************************************
-************************************************************
-FileName: classes/ContactsListController.cls
-FullName/Id: ContactsListController/01p36000003O0iqAAC
-Manageable State: unmanaged
-Namespace Prefix: null
-Created Date: 2016-02-14T21:18:11-0500
-Last Modified Date: 2016-02-14T21:21:22-0500
-************************************************************
-************************************************************
-FileName: classes/UpsertContactSample.cls
-FullName/Id: UpsertContactSample/01p36000002AT49AAG
-Manageable State: unmanaged
-Namespace Prefix: null
-Created Date: 2016-01-31T14:02:30-0500
-Last Modified Date: 2016-01-31T14:03:37-0500
-************************************************************
-************************************************************
-FileName: classes/StringArrayTest.cls
-FullName/Id: StringArrayTest/01p36000002AHK6AAO
-Manageable State: unmanaged
-Namespace Prefix: null
-Created Date: 2016-01-30T17:05:55-0500
-Last Modified Date: 2016-01-30T17:29:46-0500
-************************************************************
-************************************************************
-FileName: classes/AddAccountSample.cls
-FullName/Id: AddAccountSample/01p36000002ASzrAAG
-Manageable State: unmanaged
-Namespace Prefix: null
-Created Date: 2016-01-31T13:36:17-0500
-Last Modified Date: 2016-01-31T13:44:16-0500
-************************************************************
-************************************************************
-FileName: classes/TestVerifyDate.cls
-FullName/Id: TestVerifyDate/01p36000002DHFrAAO
-Manageable State: unmanaged
-Namespace Prefix: null
-Created Date: 2016-02-04T16:55:02-0500
-Last Modified Date: 2016-03-30T18:03:02-0400
-************************************************************
-************************************************************
-FileName: classes/InsertWithPartialSuccessSample.cls
-FullName/Id: InsertWithPartialSuccessSample/01p36000002AT4EAAW
-Manageable State: unmanaged
-Namespace Prefix: null
-Created Date: 2016-01-31T14:21:45-0500
-Last Modified Date: 2016-01-31T14:22:20-0500
-************************************************************
-************************************************************
-FileName: classes/TemperatureConverterTest.cls
-FullName/Id: TemperatureConverterTest/01p36000002DGoSAAW
-Manageable State: unmanaged
-Namespace Prefix: null
-Created Date: 2016-02-04T16:28:39-0500
-Last Modified Date: 2016-02-04T18:26:12-0500
-************************************************************
-************************************************************
-FileName: classes/AsyncParkService.cls
-FullName/Id: AsyncParkService/01p36000005pBx7AAE
-Manageable State: unmanaged
-Namespace Prefix: null
-Created Date: 2016-03-16T11:35:49-0400
-Last Modified Date: 2016-03-16T11:35:49-0400
-************************************************************
-************************************************************
-FileName: classes/CaseManagerTest.cls
-FullName/Id: CaseManagerTest/01p36000005pJy1AAE
-Manageable State: unmanaged
-Namespace Prefix: null
-Created Date: 2016-03-16T16:03:17-0400
-Last Modified Date: 2016-03-16T19:50:29-0400
-************************************************************
-************************************************************
-FileName: classes/SubstringBetweenTest.cls
-FullName/Id: SubstringBetweenTest/01p36000005pNmeAAE
-Manageable State: unmanaged
-Namespace Prefix: null
-Created Date: 2016-03-16T17:55:36-0400
-Last Modified Date: 2016-03-16T17:59:21-0400
-************************************************************
-************************************************************
 FileName: classes/TestAccountDeletion.cls
 FullName/Id: TestAccountDeletion/01p36000002DT9yAAG
 Manageable State: unmanaged
@@ -231,68 +207,12 @@ Created Date: 2016-02-04T22:52:17-0500
 Last Modified Date: 2016-02-05T15:11:35-0500
 ************************************************************
 ************************************************************
-FileName: classes/AnimalLocatorMock.cls
-FullName/Id: AnimalLocatorMock/01p36000003PTqDAAW
+FileName: classes/ParkServiceMock.cls
+FullName/Id: ParkServiceMock/01p36000005pD6jAAE
 Manageable State: unmanaged
 Namespace Prefix: null
-Created Date: 2016-02-16T21:52:30-0500
-Last Modified Date: 2016-02-16T21:53:12-0500
-************************************************************
-************************************************************
-FileName: classes/VerifyDate.cls
-FullName/Id: VerifyDate/01p36000002DH4OAAW
-Manageable State: unmanaged
-Namespace Prefix: null
-Created Date: 2016-02-04T16:51:24-0500
-Last Modified Date: 2016-02-04T16:53:26-0500
-************************************************************
-************************************************************
-FileName: classes/AccountProcessorTest.cls
-FullName/Id: AccountProcessorTest/01p360000072UqqAAE
-Manageable State: unmanaged
-Namespace Prefix: null
-Created Date: 2016-03-31T11:57:42-0400
-Last Modified Date: 2016-03-31T13:57:32-0400
-************************************************************
-************************************************************
-FileName: classes/NewCaseListController.cls
-FullName/Id: NewCaseListController/01p36000003O0n3AAC
-Manageable State: unmanaged
-Namespace Prefix: null
-Created Date: 2016-02-14T21:24:50-0500
-Last Modified Date: 2016-02-14T21:59:11-0500
-************************************************************
-************************************************************
-FileName: classes/AwesomeCalculator.cls
-FullName/Id: AwesomeCalculator/01p36000005pBNQAA2
-Manageable State: unmanaged
-Namespace Prefix: null
-Created Date: 2016-03-16T11:24:45-0400
-Last Modified Date: 2016-03-16T11:24:57-0400
-************************************************************
-************************************************************
-FileName: classes/RandomContactFactory.cls
-FullName/Id: RandomContactFactory/01p36000002Dm6AAAS
-Manageable State: unmanaged
-Namespace Prefix: null
-Created Date: 2016-02-05T15:24:46-0500
-Last Modified Date: 2016-02-05T15:42:27-0500
-************************************************************
-************************************************************
-FileName: classes/MyApexClass.cls
-FullName/Id: MyApexClass/01p36000002DFL5AAO
-Manageable State: unmanaged
-Namespace Prefix: null
-Created Date: 2016-02-04T14:33:33-0500
-Last Modified Date: 2016-02-04T14:35:51-0500
-************************************************************
-************************************************************
-FileName: classes/HttpPostSample.cls
-FullName/Id: HttpPostSample/01p36000003PQBvAAO
-Manageable State: unmanaged
-Namespace Prefix: null
-Created Date: 2016-02-16T21:14:28-0500
-Last Modified Date: 2016-02-16T21:14:47-0500
+Created Date: 2016-03-16T12:04:23-0400
+Last Modified Date: 2016-03-16T12:28:18-0400
 ************************************************************
 ************************************************************
 FileName: classes/TempClass.cls
@@ -303,44 +223,28 @@ Created Date: 2016-03-31T15:08:13-0400
 Last Modified Date: 2016-03-31T15:13:34-0400
 ************************************************************
 ************************************************************
-FileName: classes/calculatorServices.cls
-FullName/Id: calculatorServices/01p36000005pAq9AAE
+FileName: classes/CalculatorCalloutMock.cls
+FullName/Id: CalculatorCalloutMock/01p36000005pBNfAAM
 Manageable State: unmanaged
 Namespace Prefix: null
-Created Date: 2016-03-16T11:16:51-0400
-Last Modified Date: 2016-03-16T11:16:51-0400
+Created Date: 2016-03-16T11:26:03-0400
+Last Modified Date: 2016-03-16T11:26:23-0400
 ************************************************************
 ************************************************************
-FileName: classes/AccountHandler.cls
-FullName/Id: AccountHandler/01p36000002ATw3AAG
+FileName: classes/AwesomeCalculator.cls
+FullName/Id: AwesomeCalculator/01p36000005pBNQAA2
 Manageable State: unmanaged
 Namespace Prefix: null
-Created Date: 2016-01-31T14:42:37-0500
-Last Modified Date: 2016-01-31T14:53:38-0500
+Created Date: 2016-03-16T11:24:45-0400
+Last Modified Date: 2016-03-16T11:24:57-0400
 ************************************************************
 ************************************************************
-FileName: classes/AnimalsHttpCalloutMock.cls
-FullName/Id: AnimalsHttpCalloutMock/01p36000003PRJTAA4
+FileName: classes/TestClass.cls
+FullName/Id: TestClass/01p36000002DK5BAAW
 Manageable State: unmanaged
 Namespace Prefix: null
-Created Date: 2016-02-16T21:21:29-0500
-Last Modified Date: 2016-02-16T21:21:35-0500
-************************************************************
-************************************************************
-FileName: classes/AsyncCalculatorServices.cls
-FullName/Id: AsyncCalculatorServices/01p36000005pAqAAAU
-Manageable State: unmanaged
-Namespace Prefix: null
-Created Date: 2016-03-16T11:16:52-0400
-Last Modified Date: 2016-03-16T11:16:52-0400
-************************************************************
-************************************************************
-FileName: classes/TemperatureConverter.cls
-FullName/Id: TemperatureConverter/01p36000002DGo8AAG
-Manageable State: unmanaged
-Namespace Prefix: null
-Created Date: 2016-02-04T16:27:14-0500
-Last Modified Date: 2016-02-04T16:27:50-0500
+Created Date: 2016-02-04T18:34:16-0500
+Last Modified Date: 2016-04-05T11:50:24-0400
 ************************************************************
 ************************************************************
 FileName: classes/AccountManager.cls
@@ -351,6 +255,62 @@ Created Date: 2016-03-16T16:17:16-0400
 Last Modified Date: 2016-03-16T20:18:16-0400
 ************************************************************
 ************************************************************
+FileName: classes/TemperatureConverter.cls
+FullName/Id: TemperatureConverter/01p36000002DGo8AAG
+Manageable State: unmanaged
+Namespace Prefix: null
+Created Date: 2016-02-04T16:27:14-0500
+Last Modified Date: 2016-02-04T16:27:50-0500
+************************************************************
+************************************************************
+FileName: classes/TestVerifyDate.cls
+FullName/Id: TestVerifyDate/01p36000002DHFrAAO
+Manageable State: unmanaged
+Namespace Prefix: null
+Created Date: 2016-02-04T16:55:02-0500
+Last Modified Date: 2016-03-30T18:03:02-0400
+************************************************************
+************************************************************
+FileName: classes/AccountHandler.cls
+FullName/Id: AccountHandler/01p36000002ATw3AAG
+Manageable State: unmanaged
+Namespace Prefix: null
+Created Date: 2016-01-31T14:42:37-0500
+Last Modified Date: 2016-01-31T14:53:38-0500
+************************************************************
+************************************************************
+FileName: classes/MyApexClass.cls
+FullName/Id: MyApexClass/01p36000002DFL5AAO
+Manageable State: unmanaged
+Namespace Prefix: null
+Created Date: 2016-02-04T14:33:33-0500
+Last Modified Date: 2016-02-04T14:35:51-0500
+************************************************************
+************************************************************
+FileName: classes/StringArrayTest.cls
+FullName/Id: StringArrayTest/01p36000002AHK6AAO
+Manageable State: unmanaged
+Namespace Prefix: null
+Created Date: 2016-01-30T17:05:55-0500
+Last Modified Date: 2016-01-30T17:29:46-0500
+************************************************************
+************************************************************
+FileName: classes/AccountProcessorTest.cls
+FullName/Id: AccountProcessorTest/01p360000072UqqAAE
+Manageable State: unmanaged
+Namespace Prefix: null
+Created Date: 2016-03-31T11:57:42-0400
+Last Modified Date: 2016-03-31T13:57:32-0400
+************************************************************
+************************************************************
+FileName: classes/VerifyDate.cls
+FullName/Id: VerifyDate/01p36000002DH4OAAW
+Manageable State: unmanaged
+Namespace Prefix: null
+Created Date: 2016-02-04T16:51:24-0500
+Last Modified Date: 2016-02-04T16:53:26-0500
+************************************************************
+************************************************************
 FileName: classes/AnotherTest.cls
 FullName/Id: AnotherTest/01p360000072nZwAAI
 Manageable State: unmanaged
@@ -359,20 +319,12 @@ Created Date: 2016-03-31T15:55:42-0400
 Last Modified Date: 2016-03-31T16:00:55-0400
 ************************************************************
 ************************************************************
-FileName: classes/AnimalLocatorTest.cls
-FullName/Id: AnimalLocatorTest/01p36000003PSEUAA4
+FileName: classes/TemperatureConverterTest.cls
+FullName/Id: TemperatureConverterTest/01p36000002DGoSAAW
 Manageable State: unmanaged
 Namespace Prefix: null
-Created Date: 2016-02-16T21:34:37-0500
-Last Modified Date: 2016-02-16T21:59:16-0500
-************************************************************
-************************************************************
-FileName: classes/ParkLocatorTest.cls
-FullName/Id: ParkLocatorTest/01p36000005pD6eAAE
-Manageable State: unmanaged
-Namespace Prefix: null
-Created Date: 2016-03-16T12:04:10-0400
-Last Modified Date: 2016-03-16T14:51:18-0400
+Created Date: 2016-02-04T16:28:39-0500
+Last Modified Date: 2016-02-04T18:26:12-0500
 ************************************************************
 ************************************************************
 FileName: classes/MyNewTestClass.cls
@@ -383,10 +335,58 @@ Created Date: 2016-03-16T12:44:08-0400
 Last Modified Date: 2016-03-16T12:44:08-0400
 ************************************************************
 ************************************************************
-FileName: classes/ParkServiceMock.cls
-FullName/Id: ParkServiceMock/01p36000005pD6jAAE
+FileName: classes/calculatorServices.cls
+FullName/Id: calculatorServices/01p36000005pAq9AAE
 Manageable State: unmanaged
 Namespace Prefix: null
-Created Date: 2016-03-16T12:04:23-0400
-Last Modified Date: 2016-03-16T12:28:18-0400
+Created Date: 2016-03-16T11:16:51-0400
+Last Modified Date: 2016-03-16T11:16:51-0400
+************************************************************
+************************************************************
+FileName: classes/AnimalLocatorMock.cls
+FullName/Id: AnimalLocatorMock/01p36000003PTqDAAW
+Manageable State: unmanaged
+Namespace Prefix: null
+Created Date: 2016-02-16T21:52:30-0500
+Last Modified Date: 2016-02-16T21:53:12-0500
+************************************************************
+************************************************************
+FileName: classes/ContactAndLeadSearch.cls
+FullName/Id: ContactAndLeadSearch/01p36000002AUsSAAW
+Manageable State: unmanaged
+Namespace Prefix: null
+Created Date: 2016-01-31T16:55:54-0500
+Last Modified Date: 2016-01-31T17:03:40-0500
+************************************************************
+************************************************************
+FileName: classes/AwesomeCalculatorTest.cls
+FullName/Id: AwesomeCalculatorTest/01p36000005pBO4AAM
+Manageable State: unmanaged
+Namespace Prefix: null
+Created Date: 2016-03-16T11:28:26-0400
+Last Modified Date: 2016-03-16T14:49:09-0400
+************************************************************
+************************************************************
+FileName: classes/AnimalsCalloutsTest.cls
+FullName/Id: AnimalsCalloutsTest/01p36000003PRHrAAO
+Manageable State: unmanaged
+Namespace Prefix: null
+Created Date: 2016-02-16T21:18:09-0500
+Last Modified Date: 2016-02-16T21:22:29-0500
+************************************************************
+************************************************************
+FileName: classes/AccountManagerTest.cls
+FullName/Id: AccountManagerTest/01p36000005pKNEAA2
+Manageable State: unmanaged
+Namespace Prefix: null
+Created Date: 2016-03-16T16:22:32-0400
+Last Modified Date: 2016-03-16T20:27:05-0400
+************************************************************
+************************************************************
+FileName: classes/AsyncCalculatorServices.cls
+FullName/Id: AsyncCalculatorServices/01p36000005pAqAAAU
+Manageable State: unmanaged
+Namespace Prefix: null
+Created Date: 2016-03-16T11:16:52-0400
+Last Modified Date: 2016-03-16T11:16:52-0400
 ************************************************************
