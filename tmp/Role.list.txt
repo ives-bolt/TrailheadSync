@@ -1,102 +1,14 @@
 ************************************************************
-FileName: roles/VPMarketing.role
-FullName/Id: VPMarketing/00E36000000WSXOEA4
+FileName: roles/Sales_Strategy_Manager.role
+FullName/Id: Sales_Strategy_Manager/00E36000000Q09jEAC
 Manageable State: null
 Namespace Prefix: null
 Created Date: 1969-12-31T19:00:00-0500
-Last Modified Date: 2016-01-20T21:40:09-0500
-************************************************************
-************************************************************
-FileName: roles/ChannelSalesTeam.role
-FullName/Id: ChannelSalesTeam/00E36000000WSXUEA4
-Manageable State: null
-Namespace Prefix: null
-Created Date: 1969-12-31T19:00:00-0500
-Last Modified Date: 2016-01-20T21:40:09-0500
-************************************************************
-************************************************************
-FileName: roles/VPNorthAmericanSales.role
-FullName/Id: VPNorthAmericanSales/00E36000000WSXMEA4
-Manageable State: null
-Namespace Prefix: null
-Created Date: 1969-12-31T19:00:00-0500
-Last Modified Date: 2016-01-20T21:40:09-0500
-************************************************************
-************************************************************
-FileName: roles/Training_Coordinator.role
-FullName/Id: Training_Coordinator/00E36000000Q09oEAC
-Manageable State: null
-Namespace Prefix: null
-Created Date: 1969-12-31T19:00:00-0500
-Last Modified Date: 2016-01-28T22:10:00-0500
-************************************************************
-************************************************************
-FileName: roles/CEO.role
-FullName/Id: CEO/00E36000000WSXKEA4
-Manageable State: null
-Namespace Prefix: null
-Created Date: 1969-12-31T19:00:00-0500
-Last Modified Date: 2016-01-28T22:06:28-0500
-************************************************************
-************************************************************
-FileName: roles/VPInternationalSales.role
-FullName/Id: VPInternationalSales/00E36000000WSXZEA4
-Manageable State: null
-Namespace Prefix: null
-Created Date: 1969-12-31T19:00:00-0500
-Last Modified Date: 2016-01-20T21:40:09-0500
-************************************************************
-************************************************************
-FileName: roles/CustomerSupportInternational.role
-FullName/Id: CustomerSupportInternational/00E36000000WSXYEA4
-Manageable State: null
-Namespace Prefix: null
-Created Date: 1969-12-31T19:00:00-0500
-Last Modified Date: 2016-01-20T21:40:09-0500
+Last Modified Date: 2016-01-28T22:09:30-0500
 ************************************************************
 ************************************************************
 FileName: roles/EasternSalesTeam.role
 FullName/Id: EasternSalesTeam/00E36000000WSXXEA4
-Manageable State: null
-Namespace Prefix: null
-Created Date: 1969-12-31T19:00:00-0500
-Last Modified Date: 2016-01-20T21:40:09-0500
-************************************************************
-************************************************************
-FileName: roles/InstallationRepairServices.role
-FullName/Id: InstallationRepairServices/00E36000000WSXWEA4
-Manageable State: null
-Namespace Prefix: null
-Created Date: 1969-12-31T19:00:00-0500
-Last Modified Date: 2016-01-20T21:40:09-0500
-************************************************************
-************************************************************
-FileName: roles/DirectorDirectSales.role
-FullName/Id: DirectorDirectSales/00E36000000WSXNEA4
-Manageable State: null
-Namespace Prefix: null
-Created Date: 1969-12-31T19:00:00-0500
-Last Modified Date: 2016-01-20T21:40:09-0500
-************************************************************
-************************************************************
-FileName: roles/SVPSalesMarketing.role
-FullName/Id: SVPSalesMarketing/00E36000000WSXLEA4
-Manageable State: null
-Namespace Prefix: null
-Created Date: 1969-12-31T19:00:00-0500
-Last Modified Date: 2016-01-20T21:40:09-0500
-************************************************************
-************************************************************
-FileName: roles/SVPHumanResources.role
-FullName/Id: SVPHumanResources/00E36000000WSXaEAO
-Manageable State: null
-Namespace Prefix: null
-Created Date: 1969-12-31T19:00:00-0500
-Last Modified Date: 2016-01-20T21:40:09-0500
-************************************************************
-************************************************************
-FileName: roles/COO.role
-FullName/Id: COO/00E36000000WSXbEAO
 Manageable State: null
 Namespace Prefix: null
 Created Date: 1969-12-31T19:00:00-0500
@@ -111,24 +23,48 @@ Created Date: 1969-12-31T19:00:00-0500
 Last Modified Date: 2016-01-20T21:40:09-0500
 ************************************************************
 ************************************************************
-FileName: roles/SVPCustomerServiceSupport.role
-FullName/Id: SVPCustomerServiceSupport/00E36000000WSXPEA4
+FileName: roles/VPNorthAmericanSales.role
+FullName/Id: VPNorthAmericanSales/00E36000000WSXMEA4
 Manageable State: null
 Namespace Prefix: null
 Created Date: 1969-12-31T19:00:00-0500
 Last Modified Date: 2016-01-20T21:40:09-0500
 ************************************************************
 ************************************************************
-FileName: roles/DirectorChannelSales.role
-FullName/Id: DirectorChannelSales/00E36000000WSXQEA4
+FileName: roles/VPInternationalSales.role
+FullName/Id: VPInternationalSales/00E36000000WSXZEA4
 Manageable State: null
 Namespace Prefix: null
 Created Date: 1969-12-31T19:00:00-0500
 Last Modified Date: 2016-01-20T21:40:09-0500
 ************************************************************
 ************************************************************
-FileName: roles/MarketingTeam.role
-FullName/Id: MarketingTeam/00E36000000WSXVEA4
+FileName: roles/SVPSalesMarketing.role
+FullName/Id: SVPSalesMarketing/00E36000000WSXLEA4
+Manageable State: null
+Namespace Prefix: null
+Created Date: 1969-12-31T19:00:00-0500
+Last Modified Date: 2016-01-20T21:40:09-0500
+************************************************************
+************************************************************
+FileName: roles/CustomerSupportInternational.role
+FullName/Id: CustomerSupportInternational/00E36000000WSXYEA4
+Manageable State: null
+Namespace Prefix: null
+Created Date: 1969-12-31T19:00:00-0500
+Last Modified Date: 2016-01-20T21:40:09-0500
+************************************************************
+************************************************************
+FileName: roles/InstallationRepairServices.role
+FullName/Id: InstallationRepairServices/00E36000000WSXWEA4
+Manageable State: null
+Namespace Prefix: null
+Created Date: 1969-12-31T19:00:00-0500
+Last Modified Date: 2016-01-20T21:40:09-0500
+************************************************************
+************************************************************
+FileName: roles/ChannelSalesTeam.role
+FullName/Id: ChannelSalesTeam/00E36000000WSXUEA4
 Manageable State: null
 Namespace Prefix: null
 Created Date: 1969-12-31T19:00:00-0500
@@ -143,6 +79,30 @@ Created Date: 1969-12-31T19:00:00-0500
 Last Modified Date: 2016-01-28T22:07:17-0500
 ************************************************************
 ************************************************************
+FileName: roles/CEO.role
+FullName/Id: CEO/00E36000000WSXKEA4
+Manageable State: null
+Namespace Prefix: null
+Created Date: 1969-12-31T19:00:00-0500
+Last Modified Date: 2016-01-28T22:06:28-0500
+************************************************************
+************************************************************
+FileName: roles/MarketingTeam.role
+FullName/Id: MarketingTeam/00E36000000WSXVEA4
+Manageable State: null
+Namespace Prefix: null
+Created Date: 1969-12-31T19:00:00-0500
+Last Modified Date: 2016-01-20T21:40:09-0500
+************************************************************
+************************************************************
+FileName: roles/COO.role
+FullName/Id: COO/00E36000000WSXbEAO
+Manageable State: null
+Namespace Prefix: null
+Created Date: 1969-12-31T19:00:00-0500
+Last Modified Date: 2016-01-20T21:40:09-0500
+************************************************************
+************************************************************
 FileName: roles/CFO.role
 FullName/Id: CFO/00E36000000WSXREA4
 Manageable State: null
@@ -151,16 +111,56 @@ Created Date: 1969-12-31T19:00:00-0500
 Last Modified Date: 2016-01-20T21:40:09-0500
 ************************************************************
 ************************************************************
-FileName: roles/Sales_Strategy_Manager.role
-FullName/Id: Sales_Strategy_Manager/00E36000000Q09jEAC
+FileName: roles/SVPCustomerServiceSupport.role
+FullName/Id: SVPCustomerServiceSupport/00E36000000WSXPEA4
 Manageable State: null
 Namespace Prefix: null
 Created Date: 1969-12-31T19:00:00-0500
-Last Modified Date: 2016-01-28T22:09:30-0500
+Last Modified Date: 2016-01-20T21:40:09-0500
+************************************************************
+************************************************************
+FileName: roles/DirectorDirectSales.role
+FullName/Id: DirectorDirectSales/00E36000000WSXNEA4
+Manageable State: null
+Namespace Prefix: null
+Created Date: 1969-12-31T19:00:00-0500
+Last Modified Date: 2016-01-20T21:40:09-0500
+************************************************************
+************************************************************
+FileName: roles/Training_Coordinator.role
+FullName/Id: Training_Coordinator/00E36000000Q09oEAC
+Manageable State: null
+Namespace Prefix: null
+Created Date: 1969-12-31T19:00:00-0500
+Last Modified Date: 2016-01-28T22:10:00-0500
+************************************************************
+************************************************************
+FileName: roles/DirectorChannelSales.role
+FullName/Id: DirectorChannelSales/00E36000000WSXQEA4
+Manageable State: null
+Namespace Prefix: null
+Created Date: 1969-12-31T19:00:00-0500
+Last Modified Date: 2016-01-20T21:40:09-0500
 ************************************************************
 ************************************************************
 FileName: roles/WesternSalesTeam.role
 FullName/Id: WesternSalesTeam/00E36000000WSXSEA4
+Manageable State: null
+Namespace Prefix: null
+Created Date: 1969-12-31T19:00:00-0500
+Last Modified Date: 2016-01-20T21:40:09-0500
+************************************************************
+************************************************************
+FileName: roles/SVPHumanResources.role
+FullName/Id: SVPHumanResources/00E36000000WSXaEAO
+Manageable State: null
+Namespace Prefix: null
+Created Date: 1969-12-31T19:00:00-0500
+Last Modified Date: 2016-01-20T21:40:09-0500
+************************************************************
+************************************************************
+FileName: roles/VPMarketing.role
+FullName/Id: VPMarketing/00E36000000WSXOEA4
 Manageable State: null
 Namespace Prefix: null
 Created Date: 1969-12-31T19:00:00-0500
