@@ -1,14 +1,14 @@
 ************************************************************
-FileName: settings/Mobile.settings
-FullName/Id: Mobile/
+FileName: settings/LiveAgent.settings
+FullName/Id: LiveAgent/
 Manageable State: null
 Namespace Prefix: 
 Created Date: 1969-12-31T19:00:00-0500
 Last Modified Date: 1969-12-31T19:00:00-0500
 ************************************************************
 ************************************************************
-FileName: settings/BusinessHours.settings
-FullName/Id: BusinessHours/
+FileName: settings/Company.settings
+FullName/Id: Company/
 Manageable State: null
 Namespace Prefix: 
 Created Date: 1969-12-31T19:00:00-0500
@@ -23,48 +23,8 @@ Created Date: 1969-12-31T19:00:00-0500
 Last Modified Date: 1969-12-31T19:00:00-0500
 ************************************************************
 ************************************************************
-FileName: settings/Order.settings
-FullName/Id: Order/
-Manageable State: null
-Namespace Prefix: 
-Created Date: 1969-12-31T19:00:00-0500
-Last Modified Date: 1969-12-31T19:00:00-0500
-************************************************************
-************************************************************
-FileName: settings/Quote.settings
-FullName/Id: Quote/
-Manageable State: null
-Namespace Prefix: 
-Created Date: 1969-12-31T19:00:00-0500
-Last Modified Date: 1969-12-31T19:00:00-0500
-************************************************************
-************************************************************
-FileName: settings/LiveAgent.settings
-FullName/Id: LiveAgent/
-Manageable State: null
-Namespace Prefix: 
-Created Date: 1969-12-31T19:00:00-0500
-Last Modified Date: 1969-12-31T19:00:00-0500
-************************************************************
-************************************************************
-FileName: settings/Ideas.settings
-FullName/Id: Ideas/
-Manageable State: null
-Namespace Prefix: 
-Created Date: 1969-12-31T19:00:00-0500
-Last Modified Date: 1969-12-31T19:00:00-0500
-************************************************************
-************************************************************
-FileName: settings/PathAssistant.settings
-FullName/Id: PathAssistant/
-Manageable State: null
-Namespace Prefix: 
-Created Date: 1969-12-31T19:00:00-0500
-Last Modified Date: 1969-12-31T19:00:00-0500
-************************************************************
-************************************************************
-FileName: settings/Name.settings
-FullName/Id: Name/
+FileName: settings/Mobile.settings
+FullName/Id: Mobile/
 Manageable State: null
 Namespace Prefix: 
 Created Date: 1969-12-31T19:00:00-0500
@@ -79,6 +39,14 @@ Created Date: 1969-12-31T19:00:00-0500
 Last Modified Date: 1969-12-31T19:00:00-0500
 ************************************************************
 ************************************************************
+FileName: settings/PathAssistant.settings
+FullName/Id: PathAssistant/
+Manageable State: null
+Namespace Prefix: 
+Created Date: 1969-12-31T19:00:00-0500
+Last Modified Date: 1969-12-31T19:00:00-0500
+************************************************************
+************************************************************
 FileName: settings/Address.settings
 FullName/Id: Address/
 Manageable State: null
@@ -87,16 +55,16 @@ Created Date: 1969-12-31T19:00:00-0500
 Last Modified Date: 1969-12-31T19:00:00-0500
 ************************************************************
 ************************************************************
-FileName: settings/Contract.settings
-FullName/Id: Contract/
+FileName: settings/Activities.settings
+FullName/Id: Activities/
 Manageable State: null
 Namespace Prefix: 
 Created Date: 1969-12-31T19:00:00-0500
 Last Modified Date: 1969-12-31T19:00:00-0500
 ************************************************************
 ************************************************************
-FileName: settings/ChatterAnswers.settings
-FullName/Id: ChatterAnswers/
+FileName: settings/Account.settings
+FullName/Id: Account/
 Manageable State: null
 Namespace Prefix: 
 Created Date: 1969-12-31T19:00:00-0500
@@ -119,40 +87,32 @@ Created Date: 1969-12-31T19:00:00-0500
 Last Modified Date: 1969-12-31T19:00:00-0500
 ************************************************************
 ************************************************************
-FileName: settings/Security.settings
-FullName/Id: Security/
+FileName: settings/Contract.settings
+FullName/Id: Contract/
 Manageable State: null
 Namespace Prefix: 
 Created Date: 1969-12-31T19:00:00-0500
 Last Modified Date: 1969-12-31T19:00:00-0500
 ************************************************************
 ************************************************************
-FileName: settings/Knowledge.settings
-FullName/Id: Knowledge/
+FileName: settings/BusinessHours.settings
+FullName/Id: BusinessHours/
 Manageable State: null
 Namespace Prefix: 
 Created Date: 1969-12-31T19:00:00-0500
 Last Modified Date: 1969-12-31T19:00:00-0500
 ************************************************************
 ************************************************************
-FileName: settings/Account.settings
-FullName/Id: Account/
+FileName: settings/Name.settings
+FullName/Id: Name/
 Manageable State: null
 Namespace Prefix: 
 Created Date: 1969-12-31T19:00:00-0500
 Last Modified Date: 1969-12-31T19:00:00-0500
 ************************************************************
 ************************************************************
-FileName: settings/Company.settings
-FullName/Id: Company/
-Manageable State: null
-Namespace Prefix: 
-Created Date: 1969-12-31T19:00:00-0500
-Last Modified Date: 1969-12-31T19:00:00-0500
-************************************************************
-************************************************************
-FileName: settings/Entitlement.settings
-FullName/Id: Entitlement/
+FileName: settings/Quote.settings
+FullName/Id: Quote/
 Manageable State: null
 Namespace Prefix: 
 Created Date: 1969-12-31T19:00:00-0500
@@ -167,16 +127,56 @@ Created Date: 1969-12-31T19:00:00-0500
 Last Modified Date: 1969-12-31T19:00:00-0500
 ************************************************************
 ************************************************************
-FileName: settings/Activities.settings
-FullName/Id: Activities/
+FileName: settings/Opportunity.settings
+FullName/Id: Opportunity/
 Manageable State: null
 Namespace Prefix: 
 Created Date: 1969-12-31T19:00:00-0500
 Last Modified Date: 1969-12-31T19:00:00-0500
 ************************************************************
 ************************************************************
-FileName: settings/Opportunity.settings
-FullName/Id: Opportunity/
+FileName: settings/Security.settings
+FullName/Id: Security/
+Manageable State: null
+Namespace Prefix: 
+Created Date: 1969-12-31T19:00:00-0500
+Last Modified Date: 1969-12-31T19:00:00-0500
+************************************************************
+************************************************************
+FileName: settings/Ideas.settings
+FullName/Id: Ideas/
+Manageable State: null
+Namespace Prefix: 
+Created Date: 1969-12-31T19:00:00-0500
+Last Modified Date: 1969-12-31T19:00:00-0500
+************************************************************
+************************************************************
+FileName: settings/Knowledge.settings
+FullName/Id: Knowledge/
+Manageable State: null
+Namespace Prefix: 
+Created Date: 1969-12-31T19:00:00-0500
+Last Modified Date: 1969-12-31T19:00:00-0500
+************************************************************
+************************************************************
+FileName: settings/ChatterAnswers.settings
+FullName/Id: ChatterAnswers/
+Manageable State: null
+Namespace Prefix: 
+Created Date: 1969-12-31T19:00:00-0500
+Last Modified Date: 1969-12-31T19:00:00-0500
+************************************************************
+************************************************************
+FileName: settings/Order.settings
+FullName/Id: Order/
+Manageable State: null
+Namespace Prefix: 
+Created Date: 1969-12-31T19:00:00-0500
+Last Modified Date: 1969-12-31T19:00:00-0500
+************************************************************
+************************************************************
+FileName: settings/Entitlement.settings
+FullName/Id: Entitlement/
 Manageable State: null
 Namespace Prefix: 
 Created Date: 1969-12-31T19:00:00-0500

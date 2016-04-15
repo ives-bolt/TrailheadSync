@@ -1,6 +1,6 @@
 ************************************************************
 FileName: objects/Metric.object
-FullName/Id: Metric.Completion/01236000000JjhiAAC
+FullName/Id: Metric.Progress/01236000000JjhhAAC
 Manageable State: unmanaged
 Namespace Prefix: null
 Created Date: 2016-01-20T21:40:09-0500
@@ -8,7 +8,7 @@ Last Modified Date: 2016-01-20T21:40:09-0500
 ************************************************************
 ************************************************************
 FileName: objects/Metric.object
-FullName/Id: Metric.Progress/01236000000JjhhAAC
+FullName/Id: Metric.Completion/01236000000JjhiAAC
 Manageable State: unmanaged
 Namespace Prefix: null
 Created Date: 2016-01-20T21:40:09-0500
