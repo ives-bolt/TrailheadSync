@@ -1,10 +1,10 @@
 ************************************************************
-FileName: staticresources/jQuery.resource
-FullName/Id: jQuery/081360000009lZqAAI
+FileName: staticresources/GetBearResource.resource
+FullName/Id: GetBearResource/081360000009qrXAAQ
 Manageable State: unmanaged
 Namespace Prefix: null
-Created Date: 2016-02-14T21:01:45-0500
-Last Modified Date: 2016-02-14T21:01:45-0500
+Created Date: 2016-02-16T21:43:05-0500
+Last Modified Date: 2016-02-16T21:43:09-0500
 ************************************************************
 ************************************************************
 FileName: staticresources/vfimagetest.resource
@@ -15,12 +15,12 @@ Created Date: 2016-02-14T21:10:22-0500
 Last Modified Date: 2016-02-14T21:10:22-0500
 ************************************************************
 ************************************************************
-FileName: staticresources/GetAnimalResource.resource
-FullName/Id: GetAnimalResource/081360000009qqAAAQ
+FileName: staticresources/jQuery.resource
+FullName/Id: jQuery/081360000009lZqAAI
 Manageable State: unmanaged
 Namespace Prefix: null
-Created Date: 2016-02-16T21:17:30-0500
-Last Modified Date: 2016-02-16T21:17:51-0500
+Created Date: 2016-02-14T21:01:45-0500
+Last Modified Date: 2016-02-14T21:01:45-0500
 ************************************************************
 ************************************************************
 FileName: staticresources/jQueryMobile.resource
@@ -31,10 +31,10 @@ Created Date: 2016-02-14T21:06:33-0500
 Last Modified Date: 2016-02-14T21:06:33-0500
 ************************************************************
 ************************************************************
-FileName: staticresources/GetBearResource.resource
-FullName/Id: GetBearResource/081360000009qrXAAQ
+FileName: staticresources/GetAnimalResource.resource
+FullName/Id: GetAnimalResource/081360000009qqAAAQ
 Manageable State: unmanaged
 Namespace Prefix: null
-Created Date: 2016-02-16T21:43:05-0500
-Last Modified Date: 2016-02-16T21:43:09-0500
+Created Date: 2016-02-16T21:17:30-0500
+Last Modified Date: 2016-02-16T21:17:51-0500
 ************************************************************
