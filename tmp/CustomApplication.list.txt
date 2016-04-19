@@ -1,4 +1,60 @@
 ************************************************************
+FileName: applications/standard__Sites.app
+FullName/Id: standard__Sites/02u36000000K8QMAA0
+Manageable State: unmanaged
+Namespace Prefix: null
+Created Date: 2016-01-20T21:40:09-0500
+Last Modified Date: 2016-01-20T21:40:09-0500
+************************************************************
+************************************************************
+FileName: applications/standard__Sales.app
+FullName/Id: standard__Sales/02u36000000K8QFAA0
+Manageable State: unmanaged
+Namespace Prefix: null
+Created Date: 2016-01-20T21:40:09-0500
+Last Modified Date: 2016-01-20T21:40:09-0500
+************************************************************
+************************************************************
+FileName: applications/standard__ServiceConsole.app
+FullName/Id: standard__ServiceConsole/02u36000000K8QXAA0
+Manageable State: unmanaged
+Namespace Prefix: null
+Created Date: 2016-01-20T21:40:09-0500
+Last Modified Date: 2016-01-20T21:40:09-0500
+************************************************************
+************************************************************
+FileName: applications/standard__Community.app
+FullName/Id: standard__Community/02u36000000K8QLAA0
+Manageable State: unmanaged
+Namespace Prefix: null
+Created Date: 2016-01-20T21:40:09-0500
+Last Modified Date: 2016-01-20T21:40:09-0500
+************************************************************
+************************************************************
+FileName: applications/standard__Service.app
+FullName/Id: standard__Service/02u36000000K8QUAA0
+Manageable State: unmanaged
+Namespace Prefix: null
+Created Date: 2016-01-20T21:40:09-0500
+Last Modified Date: 2016-01-20T21:40:09-0500
+************************************************************
+************************************************************
+FileName: applications/standard__AppLauncher.app
+FullName/Id: standard__AppLauncher/02u36000000K8QKAA0
+Manageable State: unmanaged
+Namespace Prefix: null
+Created Date: 2016-01-20T21:40:09-0500
+Last Modified Date: 2016-01-20T21:40:09-0500
+************************************************************
+************************************************************
+FileName: applications/standard__Marketing.app
+FullName/Id: standard__Marketing/02u36000000K8QVAA0
+Manageable State: unmanaged
+Namespace Prefix: null
+Created Date: 2016-01-20T21:40:09-0500
+Last Modified Date: 2016-01-20T21:40:09-0500
+************************************************************
+************************************************************
 FileName: applications/standard__Content.app
 FullName/Id: standard__Content/02u36000000K8QSAA0
 Manageable State: unmanaged
@@ -15,24 +71,8 @@ Created Date: 2016-01-20T21:40:09-0500
 Last Modified Date: 2016-01-20T21:40:09-0500
 ************************************************************
 ************************************************************
-FileName: applications/standard__Sites.app
-FullName/Id: standard__Sites/02u36000000K8QMAA0
-Manageable State: unmanaged
-Namespace Prefix: null
-Created Date: 2016-01-20T21:40:09-0500
-Last Modified Date: 2016-01-20T21:40:09-0500
-************************************************************
-************************************************************
-FileName: applications/standard__AppLauncher.app
-FullName/Id: standard__AppLauncher/02u36000000K8QKAA0
-Manageable State: unmanaged
-Namespace Prefix: null
-Created Date: 2016-01-20T21:40:09-0500
-Last Modified Date: 2016-01-20T21:40:09-0500
-************************************************************
-************************************************************
-FileName: applications/standard__Sales.app
-FullName/Id: standard__Sales/02u36000000K8QFAA0
+FileName: applications/standard__Platform.app
+FullName/Id: standard__Platform/02u36000000K8QWAA0
 Manageable State: unmanaged
 Namespace Prefix: null
 Created Date: 2016-01-20T21:40:09-0500
@@ -55,28 +95,12 @@ Created Date: 2016-03-22T15:13:49-0400
 Last Modified Date: 2016-03-22T15:13:49-0400
 ************************************************************
 ************************************************************
-FileName: applications/standard__Community.app
-FullName/Id: standard__Community/02u36000000K8QLAA0
+FileName: applications/Garage.app
+FullName/Id: Garage/02u360000000YJIAA2
 Manageable State: unmanaged
 Namespace Prefix: null
-Created Date: 2016-01-20T21:40:09-0500
-Last Modified Date: 2016-01-20T21:40:09-0500
-************************************************************
-************************************************************
-FileName: applications/standard__ServiceConsole.app
-FullName/Id: standard__ServiceConsole/02u36000000K8QXAA0
-Manageable State: unmanaged
-Namespace Prefix: null
-Created Date: 2016-01-20T21:40:09-0500
-Last Modified Date: 2016-01-20T21:40:09-0500
-************************************************************
-************************************************************
-FileName: applications/standard__Service.app
-FullName/Id: standard__Service/02u36000000K8QUAA0
-Manageable State: unmanaged
-Namespace Prefix: null
-Created Date: 2016-01-20T21:40:09-0500
-Last Modified Date: 2016-01-20T21:40:09-0500
+Created Date: 2016-01-21T21:39:35-0500
+Last Modified Date: 2016-01-21T21:39:35-0500
 ************************************************************
 ************************************************************
 FileName: applications/standard__Work.app
@@ -87,32 +111,8 @@ Created Date: 2016-01-20T21:40:09-0500
 Last Modified Date: 2016-01-20T21:40:09-0500
 ************************************************************
 ************************************************************
-FileName: applications/standard__Platform.app
-FullName/Id: standard__Platform/02u36000000K8QWAA0
-Manageable State: unmanaged
-Namespace Prefix: null
-Created Date: 2016-01-20T21:40:09-0500
-Last Modified Date: 2016-01-20T21:40:09-0500
-************************************************************
-************************************************************
-FileName: applications/Garage.app
-FullName/Id: Garage/02u360000000YJIAA2
-Manageable State: unmanaged
-Namespace Prefix: null
-Created Date: 2016-01-21T21:39:35-0500
-Last Modified Date: 2016-01-21T21:39:35-0500
-************************************************************
-************************************************************
 FileName: applications/standard__Chatter.app
 FullName/Id: standard__Chatter/02u36000000K8QNAA0
-Manageable State: unmanaged
-Namespace Prefix: null
-Created Date: 2016-01-20T21:40:09-0500
-Last Modified Date: 2016-01-20T21:40:09-0500
-************************************************************
-************************************************************
-FileName: applications/standard__Marketing.app
-FullName/Id: standard__Marketing/02u36000000K8QVAA0
 Manageable State: unmanaged
 Namespace Prefix: null
 Created Date: 2016-01-20T21:40:09-0500
