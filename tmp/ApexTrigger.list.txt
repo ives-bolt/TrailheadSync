@@ -1,4 +1,12 @@
 ************************************************************
+FileName: triggers/HelloWorldTrigger.trigger
+FullName/Id: HelloWorldTrigger/01q360000005OSSAA2
+Manageable State: unmanaged
+Namespace Prefix: null
+Created Date: 2016-02-01T20:59:32-0500
+Last Modified Date: 2016-03-30T17:59:25-0400
+************************************************************
+************************************************************
 FileName: triggers/ExampleTrigger.trigger
 FullName/Id: ExampleTrigger/01q360000005WKrAAM
 Manageable State: unmanaged
@@ -7,12 +15,28 @@ Created Date: 2016-02-03T21:31:19-0500
 Last Modified Date: 2016-02-03T21:32:36-0500
 ************************************************************
 ************************************************************
+FileName: triggers/AccountDeletion.trigger
+FullName/Id: AccountDeletion/01q360000005ZnYAAU
+Manageable State: unmanaged
+Namespace Prefix: null
+Created Date: 2016-02-04T22:46:43-0500
+Last Modified Date: 2016-02-04T22:47:13-0500
+************************************************************
+************************************************************
 FileName: triggers/AddRelatedRecord.trigger
 FullName/Id: AddRelatedRecord/01q360000005WKwAAM
 Manageable State: unmanaged
 Namespace Prefix: null
 Created Date: 2016-02-03T21:33:38-0500
 Last Modified Date: 2016-02-04T22:49:50-0500
+************************************************************
+************************************************************
+FileName: triggers/AccountAddressTrigger.trigger
+FullName/Id: AccountAddressTrigger/01q360000005WP9AAM
+Manageable State: unmanaged
+Namespace Prefix: null
+Created Date: 2016-02-03T21:47:13-0500
+Last Modified Date: 2016-02-03T22:11:24-0500
 ************************************************************
 ************************************************************
 FileName: triggers/ClosedOpportunityTrigger.trigger
@@ -29,28 +53,4 @@ Manageable State: unmanaged
 Namespace Prefix: null
 Created Date: 2016-02-04T22:57:36-0500
 Last Modified Date: 2016-02-04T22:57:51-0500
-************************************************************
-************************************************************
-FileName: triggers/AccountDeletion.trigger
-FullName/Id: AccountDeletion/01q360000005ZnYAAU
-Manageable State: unmanaged
-Namespace Prefix: null
-Created Date: 2016-02-04T22:46:43-0500
-Last Modified Date: 2016-02-04T22:47:13-0500
-************************************************************
-************************************************************
-FileName: triggers/AccountAddressTrigger.trigger
-FullName/Id: AccountAddressTrigger/01q360000005WP9AAM
-Manageable State: unmanaged
-Namespace Prefix: null
-Created Date: 2016-02-03T21:47:13-0500
-Last Modified Date: 2016-02-03T22:11:24-0500
-************************************************************
-************************************************************
-FileName: triggers/HelloWorldTrigger.trigger
-FullName/Id: HelloWorldTrigger/01q360000005OSSAA2
-Manageable State: unmanaged
-Namespace Prefix: null
-Created Date: 2016-02-01T20:59:32-0500
-Last Modified Date: 2016-03-30T17:59:25-0400
 ************************************************************
