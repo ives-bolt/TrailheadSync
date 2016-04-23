@@ -1,4 +1,12 @@
 ************************************************************
+FileName: objects/Batch_Job__c.object
+FullName/Id: Batch_Job__c.Validate_State_Choice/03d36000000ENEHAA4
+Manageable State: unmanaged
+Namespace Prefix: null
+Created Date: 2016-04-22T13:54:59-0400
+Last Modified Date: 2016-04-22T13:54:59-0400
+************************************************************
+************************************************************
 FileName: objects/Contact.object
 FullName/Id: Contact.Contact_must_be_in_Account_ZIP_Code/03d360000004k1eAAA
 Manageable State: unmanaged

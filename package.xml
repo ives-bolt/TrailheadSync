@@ -18,6 +18,7 @@
         <members>AsyncParkService</members>
         <members>AwesomeCalculator</members>
         <members>AwesomeCalculatorTest</members>
+        <members>BD_BatchJobHelper</members>
         <members>CalculatorCalloutMock</members>
         <members>CaseManager</members>
         <members>CaseManagerTest</members>
@@ -36,9 +37,12 @@
         <members>ParkService</members>
         <members>ParkServiceMock</members>
         <members>RandomContactFactory</members>
+        <members>SampleWithConstructor</members>
         <members>StringArrayTest</members>
         <members>SubstringBetweenTest</members>
         <members>TempClass</members>
+        <members>TempClassCreator</members>
+        <members>TempClassCreatorTest</members>
         <members>TemperatureConverter</members>
         <members>TemperatureConverterTest</members>
         <members>TestAccountDeletion</members>
@@ -81,6 +85,7 @@
         <members>AccountAddressTrigger</members>
         <members>AccountDeletion</members>
         <members>AddRelatedRecord</members>
+        <members>BD_BatchJobTrigger</members>
         <members>ClosedOpportunityTrigger</members>
         <members>ExampleTrigger</members>
         <members>HelloWorldTrigger</members>
@@ -130,6 +135,14 @@
         <members>Account.SLASerialNumber__c</members>
         <members>Account.SLA__c</members>
         <members>Account.UpsellOpportunity__c</members>
+        <members>Batch_Job__c.Active__c</members>
+        <members>Batch_Job__c.Apex_Class__c</members>
+        <members>Batch_Job__c.Comments__c</members>
+        <members>Batch_Job__c.Cron_Expression__c</members>
+        <members>Batch_Job__c.Error_Message__c</members>
+        <members>Batch_Job__c.Group__c</members>
+        <members>Batch_Job__c.Scheduled_Job_Id__c</members>
+        <members>Batch_Job__c.State__c</members>
         <members>Campsite_Reservation__c.Campsite__c</members>
         <members>Campsite_Reservation__c.End_Date__c</members>
         <members>Campsite_Reservation__c.Start_Date__c</members>
@@ -181,6 +194,7 @@
         <members>Activity</members>
         <members>Asset</members>
         <members>AssistantProgress</members>
+        <members>Batch_Job__c</members>
         <members>Campaign</members>
         <members>CampaignMember</members>
         <members>Campsite_Reservation__c</members>
@@ -237,6 +251,7 @@
     </types>
     <types>
         <members>Add_Account</members>
+        <members>Batch_Job__c</members>
         <members>Candidate__c</members>
         <members>Fundraiser__c</members>
         <members>New_Customer</members>
@@ -267,6 +282,7 @@
         <members>Account-Account %28Support%29 Layout</members>
         <members>Account-Account Layout</members>
         <members>Asset-Asset Layout</members>
+        <members>Batch_Job__c-Batch Job Layout</members>
         <members>Campaign-Campaign Layout</members>
         <members>CampaignMember-Campaign Member Page Layout</members>
         <members>Campsite_Reservation__c-Campsite Reservation Layout</members>
@@ -336,6 +352,8 @@
         <members>Activity.TodaysTasks</members>
         <members>Activity.UpcomingEvents</members>
         <members>Asset.AllAssets</members>
+        <members>Batch_Job__c.All</members>
+        <members>Batch_Job__c.Errored_Jobs</members>
         <members>Campaign.AllActiveCampaigns</members>
         <members>Campaign.MyActiveCampaigns</members>
         <members>Candidate__c.All</members>
@@ -459,6 +477,7 @@
     <types>
         <members>Account</members>
         <members>Asset</members>
+        <members>Batch_Job__c</members>
         <members>Campaign</members>
         <members>Campsite__c</members>
         <members>Candidate__c</members>
@@ -488,6 +507,7 @@
         <name>StaticResource</name>
     </types>
     <types>
+        <members>Batch_Job__c.Validate_State_Choice</members>
         <members>Contact.Contact_must_be_in_Account_ZIP_Code</members>
         <name>ValidationRule</name>
     </types>
@@ -502,6 +522,7 @@
         <members>Account</members>
         <members>Asset</members>
         <members>AssistantProgress</members>
+        <members>Batch_Job__c</members>
         <members>Campaign</members>
         <members>CampaignMember</members>
         <members>Campsite_Reservation__c</members>

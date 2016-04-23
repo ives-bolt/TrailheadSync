@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <actionOverrides>
+        <actionName>Accept</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>CancelEdit</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>Clone</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>Delete</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>Edit</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>Follow</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>List</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>New</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>SaveEdit</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>Tab</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>View</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <allowInChatterGroups>false</allowInChatterGroups>
+    <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
+    <deploymentStatus>Deployed</deploymentStatus>
+    <description>Contains the details of a batch job (Apex Scheduled Job).</description>
+    <enableActivities>false</enableActivities>
+    <enableBulkApi>true</enableBulkApi>
+    <enableFeeds>false</enableFeeds>
+    <enableHistory>false</enableHistory>
+    <enableReports>false</enableReports>
+    <enableSearch>true</enableSearch>
+    <enableSharing>true</enableSharing>
+    <enableStreamingApi>true</enableStreamingApi>
+    <fields>
+        <fullName>Active__c</fullName>
+        <defaultValue>true</defaultValue>
+        <description>Is this batch job active or not.  Only active jobs will be available to the mass Schedule / Un-Schedule functions.  NOTE: setting to false will unschedule/abort any current jobs.</description>
+        <externalId>false</externalId>
+        <inlineHelpText>Is this batch job active or not.  Only active jobs will be available to the mass Schedule / Un-Schedule functions.  NOTE: setting to false will unschedule/abort any current jobs.</inlineHelpText>
+        <label>Active</label>
+        <trackTrending>false</trackTrending>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
+        <fullName>Apex_Class__c</fullName>
+        <description>The Apex Class to be scheduled.  The class must implement Schedulable.</description>
+        <externalId>false</externalId>
+        <inlineHelpText>The Apex Class to be scheduled.  The class must implement Schedulable.</inlineHelpText>
+        <label>Apex Class</label>
+        <length>100</length>
+        <required>true</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Comments__c</fullName>
+        <description>Provide any relevant comments for this batch job.</description>
+        <externalId>false</externalId>
+        <label>Comments</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>TextArea</type>
+    </fields>
+    <fields>
+        <fullName>Cron_Expression__c</fullName>
+        <description>Cron expression defining the schedule for this job.  Seconds Minutes Hours Day_of_month Month Day_of_week optional_year</description>
+        <externalId>false</externalId>
+        <inlineHelpText>Seconds Minutes Hours Day_of_month Month Day_of_week optional_year.  Ex. 0 0 13 * * ? = Every day at 1pm, 0 0 20 * * ? 2010 = Every day in 2010 at 8pm, 0 0 22 ? * 6L = Last Friday of each Month at 10pm, 0 0 10 ? * MON-FRI = Mon thru Fri at 10am.</inlineHelpText>
+        <label>Cron Expression</label>
+        <length>50</length>
+        <required>true</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Error_Message__c</fullName>
+        <description>Any errors creating or running the batch job will show up here.</description>
+        <externalId>false</externalId>
+        <inlineHelpText>Any errors creating or running the batch job will show up here.</inlineHelpText>
+        <label>Error Message</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>TextArea</type>
+    </fields>
+    <fields>
+        <fullName>Group__c</fullName>
+        <description>An identifier to group batches together.  Handy when dealing with lots of batch jobs and need to enable/disable them in mass.</description>
+        <externalId>false</externalId>
+        <inlineHelpText>An identifier to group batches together.  Handy when dealing with lots of batch jobs and need to enable/disable them in mass.</inlineHelpText>
+        <label>Group</label>
+        <length>50</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Scheduled_Job_Id__c</fullName>
+        <description>This field will be auto populated with the CronTrigger.Id when a batch job is scheduled.</description>
+        <externalId>false</externalId>
+        <inlineHelpText>This field will be auto populated with the CronTrigger.Id when a batch job is scheduled.</inlineHelpText>
+        <label>Scheduled Job Id</label>
+        <length>50</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>State__c</fullName>
+        <description>When set to &quot;Ready&quot; it will cause a scheduled job (CronTrigger) to be created and will then be set to &quot;Scheduled&quot; on success or &quot;Error&quot; if there was a failure.  Setting to &quot;Off&quot; will cause any existing scheduled jobs to be cancelled.</description>
+        <externalId>false</externalId>
+        <inlineHelpText>When set to &quot;Ready&quot; it will cause a scheduled job (CronTrigger) to be created and will then be set to &quot;Scheduled&quot; on success or &quot;Error&quot; if there was a failure.  Setting to &quot;Off&quot; will cause any existing scheduled jobs to be cancelled.</inlineHelpText>
+        <label>State</label>
+        <picklist>
+            <picklistValues>
+                <fullName>Ready</fullName>
+                <default>true</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Scheduled</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Off</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Error</fullName>
+                <default>false</default>
+            </picklistValues>
+            <sorted>false</sorted>
+        </picklist>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+    </fields>
+    <label>Batch Job</label>
+    <listViews>
+        <fullName>All</fullName>
+        <columns>NAME</columns>
+        <columns>Cron_Expression__c</columns>
+        <columns>Apex_Class__c</columns>
+        <columns>Active__c</columns>
+        <columns>State__c</columns>
+        <columns>Group__c</columns>
+        <columns>Comments__c</columns>
+        <filterScope>Everything</filterScope>
+        <label>All</label>
+    </listViews>
+    <listViews>
+        <fullName>Errored_Jobs</fullName>
+        <columns>NAME</columns>
+        <columns>Cron_Expression__c</columns>
+        <columns>Apex_Class__c</columns>
+        <columns>Active__c</columns>
+        <columns>Error_Message__c</columns>
+        <filterScope>Everything</filterScope>
+        <filters>
+            <field>State__c</field>
+            <operation>equals</operation>
+            <value>Error</value>
+        </filters>
+        <label>Errored Jobs</label>
+    </listViews>
+    <nameField>
+        <label>Batch Job Name</label>
+        <type>Text</type>
+    </nameField>
+    <pluralLabel>Batch Jobs</pluralLabel>
+    <searchLayouts>
+        <customTabListAdditionalFields>Cron_Expression__c</customTabListAdditionalFields>
+        <customTabListAdditionalFields>Apex_Class__c</customTabListAdditionalFields>
+        <customTabListAdditionalFields>Active__c</customTabListAdditionalFields>
+        <customTabListAdditionalFields>State__c</customTabListAdditionalFields>
+        <customTabListAdditionalFields>Group__c</customTabListAdditionalFields>
+        <customTabListAdditionalFields>Comments__c</customTabListAdditionalFields>
+        <lookupDialogsAdditionalFields>Active__c</lookupDialogsAdditionalFields>
+        <lookupDialogsAdditionalFields>State__c</lookupDialogsAdditionalFields>
+        <lookupDialogsAdditionalFields>Apex_Class__c</lookupDialogsAdditionalFields>
+        <lookupDialogsAdditionalFields>Group__c</lookupDialogsAdditionalFields>
+        <searchFilterFields>Active__c</searchFilterFields>
+        <searchFilterFields>State__c</searchFilterFields>
+        <searchFilterFields>Group__c</searchFilterFields>
+        <searchFilterFields>Apex_Class__c</searchFilterFields>
+        <searchResultsAdditionalFields>Active__c</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>State__c</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>Apex_Class__c</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>Group__c</searchResultsAdditionalFields>
+    </searchLayouts>
+    <sharingModel>ReadWrite</sharingModel>
+    <validationRules>
+        <fullName>Validate_State_Choice</fullName>
+        <active>true</active>
+        <description>Validates the State selection made by the user.  Users can only set State to Ready and Off, the System sets all other states.</description>
+        <errorConditionFormula>!( ISPICKVAL(State__c, &quot;Ready&quot;) || ISPICKVAL(State__c, &quot;Off&quot;) )</errorConditionFormula>
+        <errorDisplayField>State__c</errorDisplayField>
+        <errorMessage>Users can only choose &quot;Ready&quot; or &quot;Off&quot;, the other States are set by the System.</errorMessage>
+    </validationRules>
+</CustomObject>

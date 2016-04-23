@@ -6,6 +6,6 @@
 
 public with sharing class TestBatchClass implements Schedulable {
     public void execute(SchedulableContext sc) {
-        System.debug( 'Inside TestBatchClass' );
+        System.debug( 'Executing TestBatchClass ' + sc.getTriggerId() + ' at ' + System.now() );
     }
 }
