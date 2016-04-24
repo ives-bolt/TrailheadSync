@@ -1,10 +1,10 @@
 ************************************************************
-FileName: staticresources/jQuery.resource
-FullName/Id: jQuery/081360000009lZqAAI
+FileName: staticresources/jQueryMobile.resource
+FullName/Id: jQueryMobile/081360000009lZvAAI
 Manageable State: unmanaged
 Namespace Prefix: null
-Created Date: 2016-02-14T21:01:45-0500
-Last Modified Date: 2016-02-14T21:01:45-0500
+Created Date: 2016-02-14T21:06:33-0500
+Last Modified Date: 2016-02-14T21:06:33-0500
 ************************************************************
 ************************************************************
 FileName: staticresources/GetBearResource.resource
@@ -13,6 +13,14 @@ Manageable State: unmanaged
 Namespace Prefix: null
 Created Date: 2016-02-16T21:43:05-0500
 Last Modified Date: 2016-02-16T21:43:09-0500
+************************************************************
+************************************************************
+FileName: staticresources/jQuery.resource
+FullName/Id: jQuery/081360000009lZqAAI
+Manageable State: unmanaged
+Namespace Prefix: null
+Created Date: 2016-02-14T21:01:45-0500
+Last Modified Date: 2016-02-14T21:01:45-0500
 ************************************************************
 ************************************************************
 FileName: staticresources/GetAnimalResource.resource
@@ -29,12 +37,4 @@ Manageable State: unmanaged
 Namespace Prefix: null
 Created Date: 2016-02-14T21:10:22-0500
 Last Modified Date: 2016-02-14T21:10:22-0500
-************************************************************
-************************************************************
-FileName: staticresources/jQueryMobile.resource
-FullName/Id: jQueryMobile/081360000009lZvAAI
-Manageable State: unmanaged
-Namespace Prefix: null
-Created Date: 2016-02-14T21:06:33-0500
-Last Modified Date: 2016-02-14T21:06:33-0500
 ************************************************************
