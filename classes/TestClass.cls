@@ -11,10 +11,16 @@ public class TestClass {
 
 		//CronJobDetail ctd = [SELECT Id, Name, JobType FROM CronJobDetail WHERE Id = :job.CronJobDetail.Id];
 
+//		Map<Id, CronTrigger> cronTriggerMap = new Map<Id, CronTrigger>( [SELECT Id, State, CronExpression, CronJobDetail.Name FROM CronTrigger] );
+//		List<Batch_Job__c> batchJobs = [SELECT Id, Name, Cron_Expression__c, Apex_Class__c, Active__c, State__c, Scheduled_Job_Id__c, Comments__c, Error_Message__c FROM Batch_Job__c ];
+//
+//		for( Batch_Job__c job :  batchJobs ) {
+//			CronTrigger ct = cronTriggerMap.get( job.Scheduled_Job_Id__c );
+//			System.debug( '\n\n>>>>>>>>>>BatchJob: ' + job + '\n>>>>>>>>>>CronTriger: ' + ct );
+//		}
 
 
-
-		System.debug('This is a test!');
+		//System.debug('This is a test!');
 	}
 
 }

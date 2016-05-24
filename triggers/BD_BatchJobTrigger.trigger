@@ -8,14 +8,9 @@ trigger BD_BatchJobTrigger on Batch_Job__c (before insert, before update, before
     BD_BatchJobHelper helper = new BD_BatchJobHelper();
 
     if( Trigger.isBefore ) {
-        if( Trigger.isDelete ) {
-            // TODO call delete logic
-        } else if( Trigger.isInsert || Trigger.isUpdate ) {
-            // TODO call new/update logic
-        }
-    } else {
-        // Do nothing for now
+        if( Trigger.isDelete ) helper.beforeDelete( Trigger.old );
+        else if( Trigger.isInsert ) helper.beforeInsert( Trigger.new );
+        else if(  Trigger.isUpdate ) helper.beforeUpdate( Trigger.new, Trigger.oldMap );
     }
-
 
 }

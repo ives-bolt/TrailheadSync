@@ -215,12 +215,4 @@
         <searchResultsAdditionalFields>Group__c</searchResultsAdditionalFields>
     </searchLayouts>
     <sharingModel>ReadWrite</sharingModel>
-    <validationRules>
-        <fullName>Validate_State_Choice</fullName>
-        <active>true</active>
-        <description>Validates the State selection made by the user.  Users can only set State to Ready and Off, the System sets all other states.</description>
-        <errorConditionFormula>!( ISPICKVAL(State__c, &quot;Ready&quot;) || ISPICKVAL(State__c, &quot;Off&quot;) )</errorConditionFormula>
-        <errorDisplayField>State__c</errorDisplayField>
-        <errorMessage>Users can only choose &quot;Ready&quot; or &quot;Off&quot;, the other States are set by the System.</errorMessage>
-    </validationRules>
 </CustomObject>

@@ -19,6 +19,8 @@
 <members>AwesomeCalculator</members>
 <members>AwesomeCalculatorTest</members>
 <members>BD_BatchJobHelper</members>
+<members>BD_BatchJobHelperTest</members>
+<members>BD_TestBatch</members>
 <members>CalculatorCalloutMock</members>
 <members>CaseManager</members>
 <members>CaseManagerTest</members>
@@ -553,7 +555,6 @@
 </types>
 <!--MetaType: ValidationRule-->
 <types>
-<members>Batch_Job__c.Validate_State_Choice</members>
 <members>Contact.Contact_must_be_in_Account_ZIP_Code</members>
 <name>ValidationRule</name>
 </types>

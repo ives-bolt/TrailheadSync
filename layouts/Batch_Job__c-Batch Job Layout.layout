@@ -36,11 +36,11 @@
                 <field>Group__c</field>
             </layoutItems>
             <layoutItems>
-                <behavior>Readonly</behavior>
+                <behavior>Edit</behavior>
                 <field>Scheduled_Job_Id__c</field>
             </layoutItems>
             <layoutItems>
-                <behavior>Readonly</behavior>
+                <behavior>Edit</behavior>
                 <field>Error_Message__c</field>
             </layoutItems>
         </layoutColumns>

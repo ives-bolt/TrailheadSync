@@ -6,7 +6,12 @@
     <label>HelloWorld</label>
     <packageVersions>
         <majorNumber>1</majorNumber>
-        <minorNumber>10</minorNumber>
+        <minorNumber>11</minorNumber>
         <namespace>sf_chttr_apps</namespace>
+    </packageVersions>
+    <packageVersions>
+        <majorNumber>1</majorNumber>
+        <minorNumber>7</minorNumber>
+        <namespace>sf_com_apps</namespace>
     </packageVersions>
 </ApexPage>
