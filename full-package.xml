@@ -221,7 +221,9 @@
 <members>DandBCompany</members>
 <members>DuplicateRecordItem</members>
 <members>DuplicateRecordSet</members>
+<members>EmailMessage</members>
 <members>Event</members>
+<members>ExchangeUserMapping</members>
 <members>FeedItem</members>
 <members>ForecastingCategoryMapping</members>
 <members>Fundraiser__c</members>
@@ -583,7 +585,9 @@
 <members>DandBCompany</members>
 <members>DuplicateRecordItem</members>
 <members>DuplicateRecordSet</members>
+<members>EmailMessage</members>
 <members>Event</members>
+<members>ExchangeUserMapping</members>
 <members>FeedItem</members>
 <members>Fundraiser__c</members>
 <members>Idea</members>
