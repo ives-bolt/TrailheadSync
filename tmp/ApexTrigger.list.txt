@@ -1,50 +1,10 @@
 ************************************************************
-FileName: triggers/AccountAddressTrigger.trigger
-FullName/Id: AccountAddressTrigger/01q360000005WP9AAM
-Manageable State: unmanaged
-Namespace Prefix: null
-Created Date: 2016-02-03T21:47:13-0500
-Last Modified Date: 2016-02-03T22:11:24-0500
-************************************************************
-************************************************************
-FileName: triggers/BD_BatchJobTrigger.trigger
-FullName/Id: BD_BatchJobTrigger/01q36000000BJnOAAW
-Manageable State: unmanaged
-Namespace Prefix: null
-Created Date: 2016-04-22T14:05:04-0400
-Last Modified Date: 2016-04-25T10:41:17-0400
-************************************************************
-************************************************************
 FileName: triggers/AccountDeletion.trigger
 FullName/Id: AccountDeletion/01q360000005ZnYAAU
 Manageable State: unmanaged
 Namespace Prefix: null
 Created Date: 2016-02-04T22:46:43-0500
 Last Modified Date: 2016-02-04T22:47:13-0500
-************************************************************
-************************************************************
-FileName: triggers/ClosedOpportunityTrigger.trigger
-FullName/Id: ClosedOpportunityTrigger/01q360000005YvPAAU
-Manageable State: unmanaged
-Namespace Prefix: null
-Created Date: 2016-02-04T15:46:17-0500
-Last Modified Date: 2016-02-04T16:12:19-0500
-************************************************************
-************************************************************
-FileName: triggers/AddRelatedRecord.trigger
-FullName/Id: AddRelatedRecord/01q360000005WKwAAM
-Manageable State: unmanaged
-Namespace Prefix: null
-Created Date: 2016-02-03T21:33:38-0500
-Last Modified Date: 2016-02-04T22:49:50-0500
-************************************************************
-************************************************************
-FileName: triggers/ExampleTrigger.trigger
-FullName/Id: ExampleTrigger/01q360000005WKrAAM
-Manageable State: unmanaged
-Namespace Prefix: null
-Created Date: 2016-02-03T21:31:19-0500
-Last Modified Date: 2016-02-03T21:32:36-0500
 ************************************************************
 ************************************************************
 FileName: triggers/HelloWorldTrigger.trigger
@@ -61,4 +21,44 @@ Manageable State: unmanaged
 Namespace Prefix: null
 Created Date: 2016-02-04T22:57:36-0500
 Last Modified Date: 2016-02-04T22:57:51-0500
+************************************************************
+************************************************************
+FileName: triggers/ExampleTrigger.trigger
+FullName/Id: ExampleTrigger/01q360000005WKrAAM
+Manageable State: unmanaged
+Namespace Prefix: null
+Created Date: 2016-02-03T21:31:19-0500
+Last Modified Date: 2016-02-03T21:32:36-0500
+************************************************************
+************************************************************
+FileName: triggers/AddRelatedRecord.trigger
+FullName/Id: AddRelatedRecord/01q360000005WKwAAM
+Manageable State: unmanaged
+Namespace Prefix: null
+Created Date: 2016-02-03T21:33:38-0500
+Last Modified Date: 2016-02-04T22:49:50-0500
+************************************************************
+************************************************************
+FileName: triggers/BD_BatchJobTrigger.trigger
+FullName/Id: BD_BatchJobTrigger/01q36000000BJnOAAW
+Manageable State: unmanaged
+Namespace Prefix: null
+Created Date: 2016-04-22T14:05:04-0400
+Last Modified Date: 2016-04-25T10:41:17-0400
+************************************************************
+************************************************************
+FileName: triggers/AccountAddressTrigger.trigger
+FullName/Id: AccountAddressTrigger/01q360000005WP9AAM
+Manageable State: unmanaged
+Namespace Prefix: null
+Created Date: 2016-02-03T21:47:13-0500
+Last Modified Date: 2016-02-03T22:11:24-0500
+************************************************************
+************************************************************
+FileName: triggers/ClosedOpportunityTrigger.trigger
+FullName/Id: ClosedOpportunityTrigger/01q360000005YvPAAU
+Manageable State: unmanaged
+Namespace Prefix: null
+Created Date: 2016-02-04T15:46:17-0500
+Last Modified Date: 2016-02-04T16:12:19-0500
 ************************************************************

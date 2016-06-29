@@ -1,28 +1,4 @@
 ************************************************************
-FileName: staticresources/vfimagetest.resource
-FullName/Id: vfimagetest/081360000009la0AAA
-Manageable State: unmanaged
-Namespace Prefix: null
-Created Date: 2016-02-14T21:10:22-0500
-Last Modified Date: 2016-02-14T21:10:22-0500
-************************************************************
-************************************************************
-FileName: staticresources/GetAnimalResource.resource
-FullName/Id: GetAnimalResource/081360000009qqAAAQ
-Manageable State: unmanaged
-Namespace Prefix: null
-Created Date: 2016-02-16T21:17:30-0500
-Last Modified Date: 2016-02-16T21:17:51-0500
-************************************************************
-************************************************************
-FileName: staticresources/jQueryMobile.resource
-FullName/Id: jQueryMobile/081360000009lZvAAI
-Manageable State: unmanaged
-Namespace Prefix: null
-Created Date: 2016-02-14T21:06:33-0500
-Last Modified Date: 2016-02-14T21:06:33-0500
-************************************************************
-************************************************************
 FileName: staticresources/GetBearResource.resource
 FullName/Id: GetBearResource/081360000009qrXAAQ
 Manageable State: unmanaged
@@ -37,4 +13,28 @@ Manageable State: unmanaged
 Namespace Prefix: null
 Created Date: 2016-02-14T21:01:45-0500
 Last Modified Date: 2016-02-14T21:01:45-0500
+************************************************************
+************************************************************
+FileName: staticresources/vfimagetest.resource
+FullName/Id: vfimagetest/081360000009la0AAA
+Manageable State: unmanaged
+Namespace Prefix: null
+Created Date: 2016-02-14T21:10:22-0500
+Last Modified Date: 2016-02-14T21:10:22-0500
+************************************************************
+************************************************************
+FileName: staticresources/jQueryMobile.resource
+FullName/Id: jQueryMobile/081360000009lZvAAI
+Manageable State: unmanaged
+Namespace Prefix: null
+Created Date: 2016-02-14T21:06:33-0500
+Last Modified Date: 2016-02-14T21:06:33-0500
+************************************************************
+************************************************************
+FileName: staticresources/GetAnimalResource.resource
+FullName/Id: GetAnimalResource/081360000009qqAAAQ
+Manageable State: unmanaged
+Namespace Prefix: null
+Created Date: 2016-02-16T21:17:30-0500
+Last Modified Date: 2016-02-16T21:17:51-0500
 ************************************************************
